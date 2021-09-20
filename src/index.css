@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.TimerApp {
+  width: 400px;
+  margin: 0 auto;
+  display: grid;
+  place-items: center;
+  margin-top: 5rem;
+  background: rgb(39, 60, 179);
+  padding: 3rem 5rem;
+  border-radius: 10px;
+}
+.time {
+  font-size: 8rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+button {
+  margin: 5px;
+  padding: 10px 20px;
+}
